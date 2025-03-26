@@ -22,8 +22,8 @@ This project demonstrates **fine-tuning** a **Meta-Llama-3.1-8B-Instruct** model
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/lamini-finetuning.git
-   cd lamini-finetuning
+   git clone https://github.com/PrinceGupta8/End-to-end-finetuning-llm-model-with-lamini-platform.git
+   cd End-to-end-finetuning-llm-model-with-lamini-platform
    ```
 
 2. \*\*Create a virtual environment \*\*
@@ -107,5 +107,5 @@ This project is licensed under the **MIT License**.
 
 ---
 
-🚀 **Fine-tune AI models effortlessly with Lamini!**
+**Fine-tune AI models effortlessly with Lamini!**
 
